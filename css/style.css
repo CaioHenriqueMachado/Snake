@@ -76,5 +76,6 @@ canvas {
   #restart {
     font-size: 12pt;
     background-color: red;
+    display: none;
   }
 }

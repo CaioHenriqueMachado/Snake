@@ -32,9 +32,6 @@ h1 {
   display: none;
 }
 
-.buttonRestart {
-  align-items: center;
-}
 
 canvas {
   border-radius: 5px;
@@ -79,6 +76,5 @@ canvas {
   #restart {
     font-size: 12pt;
     background-color: red;
-    display: none;
   }
 }

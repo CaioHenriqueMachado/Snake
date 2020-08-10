@@ -207,6 +207,10 @@ function createButton(app){
   div.setAttribute('class', 'buttons');
   app.appendChild(div);
 
+  const divrest = document.createElement('div');
+  div.setAttribute('class', 'buttonRestart');
+  app.appendChild(div);
+
   const up = document.createElement('button');
   up.setAttribute('type', 'button');
   up.setAttribute('id', 'up');
@@ -239,7 +243,7 @@ function createButton(app){
   restart.setAttribute('type', 'button');
   restart.setAttribute('id', 'restart');
   restart.textContent = 'RESTART';
-  div.appendChild(restart);
+  divrest.appendChild(restart);
 
 
 

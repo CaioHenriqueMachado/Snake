@@ -11,7 +11,7 @@
   <img src="./img/line.png" alt="line" width="100%">
 <br>
 
-<p align="center"><strong><a href="https://caiohenriquemachado.github.io/TodayIsWeather/">ACESSAR SITE</a></strong></p>
+<p align="center"><strong><a href="https://caiohenriquemachado.github.io/Snake/index.html">ACESSAR</a></strong></p>
 
 <img src="./img/line.png" alt="line" width="100%">
 <br>

@@ -14,7 +14,7 @@
 
 <h1 align="center">Mobile Version</h1>
 <div align="center">
-  <img src="./img/mobile.jpeg" alt="Mobile Version" height="50vh" width="40%">
+  <img src="./img/mobile.jpeg" alt="Mobile Version" height="500" width="40%">
 </div>
 <img src="./img/line.png" alt="line" width="100%">
 <br>
